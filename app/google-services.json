@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686114658676",
+    "project_id": "notes-cb063",
+    "storage_bucket": "notes-cb063.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686114658676:android:8b571378498885296ef421",
+        "android_client_info": {
+          "package_name": "com.divaal.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686114658676-dtpc4ia5q4aj6d51f3cj1ia93l1jj9ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCzNl6w01XU1Zbjr2ZynxBe8z1Xm05e6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686114658676-dtpc4ia5q4aj6d51f3cj1ia93l1jj9ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
